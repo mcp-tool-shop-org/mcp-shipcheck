@@ -1,0 +1,20 @@
+{
+  "name": "mcp-shipcheck",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "mcp-shipcheck": "./build/index.js"
+  },
+  "files": ["build"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}
