@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="assets/logo.png" alt="MCP ShipCheck" width="360" />
+  <img src="assets/logo.png" alt="MCP ShipCheck" width="400" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/mcp-tool-shop-org/mcp-shipcheck/actions/workflows/ci.yml"><img src="https://github.com/mcp-tool-shop-org/mcp-shipcheck/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
+  <a href="https://mcp-tool-shop-org.github.io/mcp-shipcheck/"><img src="https://img.shields.io/badge/Landing_Page-live-blue" alt="Landing Page"></a>
+</p>
+
+**Languages:** [日本語](README.ja.md) | [中文](README.zh.md) | [Español](README.es.md) | [Français](README.fr.md) | [हिन्दी](README.hi.md) | [Italiano](README.it.md) | [Português (BR)](README.pt-BR.md)
 
 > A.k.a. "NPM Readiness Sheriff"
 
