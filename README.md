@@ -12,6 +12,7 @@ templates/
   SECURITY.md       Security policy baseline
   HANDBOOK.md       Operational field manual skeleton
   CHANGELOG.md      Keep a Changelog starter
+  SCORECARD.md      Pre/post remediation scoring (internal)
 
 contracts/
   error-contract.md Structured error standard (2-tier)
@@ -41,6 +42,7 @@ ADOPTION.md         How to apply shipcheck to a repo in <30 minutes
 | [Error Contract](contracts/error-contract.md) | Tier 1: error shape (all repos) / Tier 2: base type + exit codes (CLI/MCP/desktop) |
 | [Security Baseline](templates/SECURITY.md) | Report email, response timeline, threat scope |
 | [Handbook](templates/HANDBOOK.md) | Operational field manual for complex tools |
+| [Scorecard](templates/SCORECARD.md) | Pre/post remediation scoring for tracking maturity |
 
 ## License
 
